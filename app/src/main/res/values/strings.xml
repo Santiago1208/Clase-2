@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clase1</string>
+    <string name="forget">Forgot your login details?</string>
+    <string name="sign_in">Get help signing in.</string>
+    <string name="facebook">Log In With Facebook</string>
+    <string name="sign_up">Sign up</string>
+    <string name="no_account">Don\'t have an account?</string>
+</resources>
